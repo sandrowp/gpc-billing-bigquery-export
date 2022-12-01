@@ -2,7 +2,7 @@
 
 ## Configuracao do conjunto de dados para a exportação
 <div>
-  <img src=https://user-images.githubusercontent.com/44730545/204949909-8b0003f8-ccee-46b6-a2ec-5fc5023c6343.png/>
+  <img src=https://user-images.githubusercontent.com/44730545/204950207-1a589b0c-4001-4a80-aa56-1670400af6eb.png />
 </div>
 
 ## Exportacao da conta de faturamento para o BIGQUERY
